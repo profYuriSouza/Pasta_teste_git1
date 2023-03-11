@@ -1,4 +1,4 @@
-escrevendo alguma coisa lalal primeira linha
+alguma mod na PRIMEIRA LINDA para dar conflito, pois commite na main tmbm
 
 essa é uma modificação somente na Branch "primeiraBranch"
 
