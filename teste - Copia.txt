@@ -1,8 +1,7 @@
-escrevendo alguma coisa lalal primeira linha
-
-essa é uma modificação somente na Branch "primeiraBranch"
+tudo novo agora
+modifiquei tudo
 
 terceira linhda
 
-quarta linha (ainda não commitei a terceira)
+quase tudo  quarta linha (ainda não commitei a terceira)
 
