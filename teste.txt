@@ -2,7 +2,7 @@ alguma mod na PRIMEIRA LINDA para dar conflito, pois commite na main tmbm
 
 essa é uma modificação somente na Branch "primeiraBranch"
 
-terceira linhda
+terceira linha - erro ok
 
 quarta linha (ainda não commitei a terceira)
 
