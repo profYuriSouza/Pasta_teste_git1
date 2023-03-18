@@ -14,3 +14,4 @@ novo comieeee 4
 mais umas coisas
 
 uma nova modificação na branch novo teste
+uma modifciação local antes de atualizar o local com modificações do remoto.
