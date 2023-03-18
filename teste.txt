@@ -1,4 +1,4 @@
-alguma mod na PRIMEIRA LINDA para dar conflito, pois commite na main tmbm
+alguma mod na PRIMEIRA LINHA para dar conflito, pois commite na main também
 
 essa é uma modificação somente na Branch "primeiraBranch"
 
